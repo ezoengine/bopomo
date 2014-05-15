@@ -1,0 +1,10 @@
+#txt {
+  width: 100%;
+  margin: 0 auto;
+}
+.word {
+  height: 60px;
+  width: 74px;
+  display: inline-block;
+  white-space: normal;
+}
