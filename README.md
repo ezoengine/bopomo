@@ -1,6 +1,10 @@
 中文加上注音
 ==========
 
+試用網站
+
+http://jqmdesigner.appspot.com/designer.html#&ref=6278071103520768
+
 index.html 		主畫面
 
 index.js 		主邏輯
